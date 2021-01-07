@@ -6,3 +6,10 @@
 body {
   height: 100%;
 }
+.center {
+  background-image: url('../img/banner_header.jpg');
+  width: 100%;
+  background-size: cover;
+	background-position: center;
+  min-height: 800px;
+}
